@@ -1,0 +1,8 @@
+{
+  "name": "AkarBiru",
+  "description": "Platform mitigasi krisis pesisir dan optimasi energi terbarukan berbasis AI untuk wilayah pesisir Indonesia. Dashboard analitik real-time untuk pemetaan kerentanan, prediksi salinitas, abrasi, dan solar mikrogrid.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
